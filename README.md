@@ -35,6 +35,7 @@ cripto plimm´s https://opensea.io/collection/criptoplimm
 
 # Avanços
 produtos solarturbines postados para MNCWL
+Plugue Comgás --> iH2 Brasil
 
 # Requisitos de conhecimento
 

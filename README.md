@@ -42,9 +42,15 @@ PIB per capita deve ser proporcional ao consumo de energia per capita.
 
 Fonte de dados:
 https://cutt.ly/2Vj7lbJ
+
 https://cutt.ly/2Vj7Yxw
+
 https://cutt.ly/qVj7OWf
+
 https://lnkd.in/d7fk5gch
+
 https://cutt.ly/FVhzE1h
+
 https://cutt.ly/fVhxHQw
+
 https://www.iea.org/sankey

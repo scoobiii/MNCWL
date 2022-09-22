@@ -8,9 +8,11 @@ transição energética (brazil) ok, econômica a caminho, renda percapita US$50
 
 # Dor: 
 Matriz hidráulica dominante sofre pressão do agronegócio, principal fonte de divisas externas
+
 # Remédio:
 Incremento e diversificação do mix energético com eficiência energética >=90% aplicável à matriz renovável, instável e não renovável, estável.
 Ativos: ~14.000
+
 # Solução: 
 1. normalização de dados da matriz local e global
 2. incluir campo "eficiência energética" por ativo (matriz renovável e não renovável) real time/OLAP; e/ou equivalente noSQL
@@ -28,11 +30,17 @@ US$2 billions
 # ROI
 60%, 10 anos
 
-# garantias: 
+# Garantias: 
 cripto plimm´s https://opensea.io/collection/criptoplimm
 
-# avanços
+# Avanços
 produtos solarturbines postados para MNCWL
+
+# Requisitos de conhecimento
+
+Profissionais credenciados 20 (vouchers)
+10 técnicos, 10 comerciais
+Profissionais com certificação de base e especialitas big cloud & UI 10
 
 # Estudo de caso:
 O PIB é o produto interno bruto brasileiro, ou seja, quanto de riqueza que um lugar produz em um ano. A soma se dá entre todos os setores da economia. Em Maricá, RJ, um fator elevou adequadamente o PIB per capita do município nos últimos anos: as receitas dos royalties de petróleo provenientes do Pré-sal. Somente em 2021 foram R$2,4 bilhões.

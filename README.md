@@ -1,4 +1,7 @@
 # MNCWL
+
+Machine no carbon no water no losses
+
 reduce power losses (global warming) by raising energy efficiency from 50 to 90% by hcr heat &amp; cooling recycle
 
 Transição energética ok, econômica a caminho.

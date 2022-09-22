@@ -41,6 +41,7 @@ O Município de Belo Monte possui PIB per capita [2019] de R$15.055,38, abaixo d
 PIB per capita deve ser proporcional ao consumo de energia per capita.
 
 Fonte de dados:
+
 https://cutt.ly/2Vj7lbJ
 
 https://cutt.ly/2Vj7Yxw

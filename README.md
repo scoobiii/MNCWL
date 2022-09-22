@@ -38,7 +38,7 @@ produtos solarturbines postados para MNCWL
 
 # Requisitos de conhecimento
 
-Profissionais credenciados 20 (vouchers)
+Profissionais credenciados 20 (vouchers) Fase I.
 10 técnicos, 10 comerciais
 Profissionais com certificação de base e especialitas big cloud & UI 10
 

@@ -41,7 +41,7 @@ Plugue Comgás --> iH2 Brasil
 
 Profissionais credenciados 20 (vouchers) Fase I.
 10 técnicos, 10 comerciais
-Profissionais com certificação de base e especialitas big cloud & UI 10
+Profissionais com certificação de base e especialistas big cloud & Uptime Institute 10
 
 # Estudo de caso:
 O PIB é o produto interno bruto brasileiro, ou seja, quanto de riqueza que um lugar produz em um ano. A soma se dá entre todos os setores da economia. Em Maricá, RJ, um fator elevou adequadamente o PIB per capita do município nos últimos anos: as receitas dos royalties de petróleo provenientes do Pré-sal. Somente em 2021 foram R$2,4 bilhões.

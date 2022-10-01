@@ -18,11 +18,11 @@ Ativos: ~14.000
 2. incluir campo "eficiência energética" por ativo (matriz renovável e não renovável) real time/OLAP; e/ou equivalente noSQL
 3. incluir no dashboard 'treemap' & 'sankey graph' com fluxo do insumo energético (renovável/não renovável),transformação/eficiência energética; resíduos
 4. projetar e construir data cloud 100 MW 100% minerador de criptoativos 100% instanciado nas big cloud aws, google, azure, ibm, tencent, alibaba, oracel
-4.0 auto e excedente geração de 1 GW hibrido gas natural 90%) e hidrogênio à nautura gás (5% lilás escalável) e verde (renovável 5% escalável) com excedente distribuido em pipeline hibrido (gas natural, hidrogênio e biogas)
+4.0 auto e excedente geração de 1 GW hibrido gas natural 90%) e hidrogênio à natural gás (5% lilás escalável) e verde (renovável 5% escalável) com excedente distribuído em pipeline hibrido (gas natural, hidrogênio e biogas)
 4.1 geração/opex: 100 MW
 4.2 geração/opex: 100 MW zera a conta de luz/energia
 4.3 geração/ampliação/capex/distribuição/receita: 800 MW suporta expansão e/ou vendido como receita no grid
-4.3 zero gerador á diesel. zero concessinária de energia, zero redundância de concessionaria de energia
+4.3 zero gerador á diesel. zero concessionária de energia, zero redundância de concessionária de energia
 
 # Investimentos
 US$2 billions
